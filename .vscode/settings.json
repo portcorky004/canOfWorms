@@ -1,0 +1,10 @@
+{
+    "workbench.editor.doubleClickTabToToggleEditorGroupSizes": "maximize",
+    "workbench.editor.enablePreviewFromCodeNavigation": true,
+    "workbench.editor.pinnedTabSizing": "compact",
+    "workbench.editor.tabSizingFixedMaxWidth": 320,
+    "workbench.editor.tabSizingFixedMinWidth": 100,
+    "workbench.editorAssociations": {
+        "j": "po481"
+    }
+}

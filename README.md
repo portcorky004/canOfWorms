@@ -30,10 +30,10 @@ kw
    'p
 
    !L!
-   0!
+   0! Still not getting
    09:
    :0j
    :":
    09"'po
    iutuvlugie hv! )
-   zrdZI'm
+   zrdZI'm Fourth attempt $5$vnd,+6fg$6xy hs mmys
